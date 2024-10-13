@@ -1,9 +1,8 @@
 # 📚 Resources
 Welcome to our collection of references, tutorials, articles, courses, and more for our Club Services, Community Meetups, FOSS Files, and Events. 🎉
 
-## Events
 <details>
-<summary>Click to expand</summary>
+<summary>## Events</summary>
 
 - LinuxDiary 3.0
 - LinuxDiary 4.0
@@ -16,9 +15,8 @@ Welcome to our collection of references, tutorials, articles, courses, and more 
 
 </details>
 
-## Club Services
 <details>
-<summary>Click to expand</summary>
+<summary>## Club Services</summary>
 
 - Data Replication Using MongoDB
 - FOSS
@@ -32,10 +30,14 @@ Welcome to our collection of references, tutorials, articles, courses, and more 
 
 </details>
 
-## Community Meetups
+<details>
+<summary>## Community Meetups</summary>
+
 - Gnome Customization
 - Bash
 - OS Placement Series
+
+</details>
 
 ## The FOSS Files
 
